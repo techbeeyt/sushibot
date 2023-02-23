@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-bot",
+  "version": "1.0.0",
+  "description": "telegram bot for restaurant",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "node ./test-data/test.js"
+  },
+  "keywords": [
+    "restaurant",
+    "bot",
+    "telegram"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.3",
+    "mongoose-sequence": "^5.2.2",
+    "telegraf": "^3.38.0",
+    "telegraf-i18n": "^6.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
