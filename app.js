@@ -303,7 +303,7 @@ bot.hears([/^⬅️/, /^📥/, /^⚙️/, /^🛍/, /^🔎/, /^❌/, /^🇺🇿/,
 })
 
 //
-bot.telegram.setWebhook('https://monst3r2023.vercel.app/secret-path')
+bot.telegram.setWebhook('https://sushibot.vercel.app//secret-path')
 bot.startWebhook('/secret-path', null, config.PORT)
 
 // bot.startPolling()
