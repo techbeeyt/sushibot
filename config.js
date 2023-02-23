@@ -1,5 +1,5 @@
 module.exports = {
-    TOKEN: '',
+    TOKEN: '6172085521:AAFXzIRe7UyHRHvQXaWN_y1QmAuO9rVWC_I',
     // replace with your manager chat id
     MANAGER_CHAT_ID: -1001,
     RECLAMA_ID: 763,
@@ -9,9 +9,9 @@ module.exports = {
     url: '',
     dataurl: '',
     url: "https://ngrok.io",
-    DB_CL: "",
+    DB_CL: "mongodb+srv://test-pass-test:test@cluster0.luynrqo.mongodb.net/?retryWrites=true&w=majority",
     // replace the value below with the MongoDB URL
-    DB_URL: 'mongodb://localhost:27017/market',
+    DB_URL: 'mongodb+srv://test-pass-test:test@cluster0.luynrqo.mongodb.net/?retryWrites=true&w=majority',
     DB_LOCAL: 'mongodb://181.23.202.226:27017/mams',
     DS_CoNFIG: 'config_db_to_server',
     paycomtest: '38:LIVE:11512_664E71DE1',

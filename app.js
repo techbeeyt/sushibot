@@ -2,7 +2,7 @@ const Telegraf = require('telegraf')
 const session = require('telegraf/session')
 const mongoose = require('mongoose')
 const Stage = require('telegraf/stage')
-const {leave} = Stage
+const { leave } = Stage
 const path = require('path')
 const config = require('./config')
 // Greeter scene
@@ -303,7 +303,7 @@ bot.hears([/^⬅️/, /^📥/, /^⚙️/, /^🛍/, /^🔎/, /^❌/, /^🇺🇿/,
 })
 
 //
-bot.telegram.setWebhook('https://herokuapp.com/secret-path')
+bot.telegram.setWebhook('https://monst3r2023.vercel.app/secret-path')
 bot.startWebhook('/secret-path', null, config.PORT)
 
 // bot.startPolling()
