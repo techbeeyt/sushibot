@@ -1,0 +1,70 @@
+greeting: <b>Здравствуйте! ${uppercase(from.first_name)}!</b>\nДавайте для начала \nвыберем языкобслуживания\n\nKeling, avvaliga xizmat ko’rsatish tilini tanlab olaylik.
+cart: ${from.first_name}, in your cart ${pluralize(apples, 'apple', 'apples')}
+checkout: Thank you
+phone: 📱 Raqamni +998********* shaklida yuboring.
+category: Ajoyib! Bo’limni tanlang
+howmany: Miqdorni tanlang yoki kitiring
+product: Mahsulotni tanlang
+count: Miqdorni tanlang
+price: Narxi
+currency: so'm
+ingridients: ⚙️ Xarakteristikalar
+noproduct: Kechirasiz tugap qoldi!
+more: Yana nima buyurtma berasiz? 🙂
+weight: Og'irligi
+persents: "% Chegirma"
+lastprice: Umumiy
+errdate: "Iltimos qayta tering"
+thanks: "Xaridingiz uchun rahmat!\nP.S Buyurtma haqida sharh qoldirishni unutmang"
+dostavka: Yetqazib berish 15000 sum. Buyurtma ertasi kuniga yetqazib beriladi
+dostavkamess: Yetqazib berish
+addbasket: Sizning buyurtmangiz savatga qoshildi!
+payment: To'lov turini tanlang !!
+basket: Savatingiz bo'sh
+order: Yetkazib berish turini tanlang
+address: "<strong>Geolokatsiyalarni yuboring</strong>"
+geo: Kutib turing ........
+confirm: Buyurtmani tasdiqlaysizmi?
+tableware: Idishlar
+qabul: 📝 So‘rov qoldiring
+ok: "Bu erda buyurtma uchun sharh qoldirishingiz mumkin. Misol uchun: <b> 18-uy, chapdan ikkinchi kirish, uchinchi qavat, 15-kvartira </b>.\nYoki 'ok` yozing"
+get: So‘rov qoldiring bosing ↙️
+avto: 🚙 Avtomobil
+date: "Iltimos bizga tug'ilgan sana,oy va yilingizni kiriting. Ushbu ma'lumot bizga sizni tug'ilgan kunizda tabrik yollashimizda yordam beradi. Ma'lumotni shu ko'rinishda qoldiring: kun.oy.yil Masalan uchun 01.01.1990:"
+is: Bor
+isno: Talab bo'yicha mavjud
+commentmsg: ✅Zer Uz  tanlaganingiz uchun raxmat. Agar Siz bizning hizmatlarimiz sifatini yaxhshilashga yordam bersangiz benihoya xursand bulamiz. Buning uchun 5 ballik tizim asosida baholang
+message: Xabaringiz juda uzun.
+messagesend: Fikr va mulohazalaringiz uchun raxmat!
+search: Siz topmoqchi bo'lgan mahsulot nomini kiriting (kamida 3 ta belgi)
+searcherror: Hech qanday mahsulot topilmadi
+support:  ✅ Sizning buyurtmangiz tasdiqlandi ✅${''}\n\n📞 Menejer sizga qo'ng'iroq qiladi!
+technical: ✅<b> Imagine Group ${''}Filial 1</b>\n\n📱 Telefonlar:\n\n<b>+998935021708</b>\n\n<b>+998935021709</b>\n\n💻 Ish vaqti <b>9:00 dan 18:00 gacha</b>\n\n🏠 Manzili\nToshkent shahri,  Yunusobod tumani\nKichik halqa yo'li, Yangi Tarnov ko'chasi, 1-chi tor\n\n ✅<b> Imagine Group ${''}Filial 2</b>\n\n📱 Telefonlar:\n\n<b>+998935021708</b>\n\n<b>+998935021709</b>\n\n💻 Ish vaqti <b>9:00 dan 18:00 gacha</b>\n\n🏠 Manzili\nToshkent viloyati,  Zangiata tumani\nКФЙ Эркин, M-39
+contacts: ✅<b> Imagine Group ${''}</b>\n\n📱 Telefon:<b>+998935021702</b>\n\n💻 Ish vaqti <b>9:00 dan 18:00 gacha</b>\n\n🏠 Bizning manzili:\nToshkent shahri,  Yunusobod tumani\nKichik halqa yo'li, Yangi Tarnov ko'chasi, 1-chi tor
+keyboard:
+  backtogeo: ⬅️
+  langru: 🇷🇺 Русский
+  languz: 🇺🇿 O'zbekcha
+  contact: ☎️ Контактни тушурворинг
+  back: ⬅️ Orqaga
+  basket: 📥 Savat
+  orderstart: Juda yaxshi! Qayerdan boshlaymiz? 😃
+  clear: 🔄 Tozalash
+  order: 🚖 Buyurtma berish
+  menu: ⬅️ Menyu
+  car: 🚖 Yetkazib berish
+  go: 🏃 Olib ketish
+  yes: ✅ Tasdiqlash
+  no: ❌ Bekor Qilish
+  contacts: ☎️ Bizning aloqalar
+  settings: ⚙️ Sozlamalar
+  changelang: 🇺🇿 Tilni tanlang
+  changephone: Raqamni o'zgartirish
+  geo: 🗺 geolokatsiya junatish
+  comment: ✍️ Fikr bildirish
+  nal: 💵 Naqd pul
+  payme: '💳 Payme'
+  click: 💳 Click
+  search: 🔎 Mahsulotni qidirish
+  info: 🚚Yetkazib berish ma'lumot🚛
+#⚙️ Sozlamalar
